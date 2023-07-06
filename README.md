@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nnunurs&label=Profile%20views&color=0e75b6&style=flat" alt="nnunurs" /> </p>
 
-- 🌱 I’m currently learning **Svelte, TailwindCSS and planning on learning Flutter**
+- 🌱 I’m currently learning **Svelte, TailwindCSS, Flutter and Rust**
 
 - 👨‍💻 All of my projects will be available here, soon **WIP**
 
